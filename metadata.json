@@ -1,0 +1,5 @@
+{
+  "name": "CodeRefiner",
+  "description": "An elegant, Apple-inspired tool to refine variable names and add intelligent comments to your code.",
+  "requestFramePermissions": []
+}
